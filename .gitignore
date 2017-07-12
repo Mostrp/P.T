@@ -1,2 +1,3 @@
-/Tank/Library
-/Tank/Temp
+Library/*
+Temp/*
+*.pdb
